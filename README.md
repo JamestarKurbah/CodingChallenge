@@ -1,4 +1,6 @@
-Project Directory Structure for LeetCode Practice in Go 
+## 📁 Project Structure
+
+```
 go-leetcode-practice/
 │
 ├── README.md                # Roadmap and progress
@@ -34,3 +36,4 @@ go-leetcode-practice/
 │
 └── utils/
     └── listnode.go         # Common structs (e.g., TreeNode, ListNode)
+```
